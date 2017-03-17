@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Tarentola Digital</title>
+    <link>http://tarentola.com/blog/index.xml</link>
+    <description>Recent content in Blog on Tarentola Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Tarentola Digital</copyright>
+    <lastBuildDate>Fri, 17 Mar 2017 19:00:33 +0000</lastBuildDate>
+    <atom:link href="http://tarentola.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Released our first game: NiceFart.io</title>
+      <link>http://tarentola.com/blog/released-our-first-game-nicefart.io/</link>
+      <pubDate>Fri, 17 Mar 2017 19:00:33 +0000</pubDate>
+      
+      <guid>http://tarentola.com/blog/released-our-first-game-nicefart.io/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://tarentola.com/img/games/nicefartio/nicefartio.png&#34; alt=&#34;NiceFart.io&#34; /&gt;
+We&amp;rsquo;re so happy today because our first game is online now!&lt;br /&gt;
+&lt;a href=&#34;http://nicefart.io&#34;&gt;NiceFart.io&lt;/a&gt; is a online multiplayer game for browsers
+based in a hilarious world where the players are butts trying to beat other players
+eating beans, and shooting farts.&lt;/p&gt;
+
+&lt;p&gt;This game is similar to agar.io or slither.io, games where your goal is eat and
+become the biggest player. For now, the game is available for browser, but we&amp;rsquo;re working
+hard to have soon versions for Android and iOS.&lt;/p&gt;
+
+&lt;p&gt;We made &lt;strong&gt;NiceFart.io&lt;/strong&gt; with love, and we hope you enjoy it!&lt;/p&gt;
+
+&lt;p&gt;More information on our &lt;a href=&#34;http://tarentola.com/games/nicefart.io/&#34;&gt;NiceFart.io section&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;play-nicefart-io-http-nicefart-io&#34;&gt;&lt;a href=&#34;http://nicefart.io&#34;&gt;Play NiceFart.io&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://tarentola.com/blog/hello-world/</link>
+      <pubDate>Fri, 10 Mar 2017 20:55:42 +0000</pubDate>
+      
+      <guid>http://tarentola.com/blog/hello-world/</guid>
+      <description>&lt;p&gt;Hello! This is our first post. Welcome to our site, it&amp;rsquo;s a really minimalistic site, we know! But, we think the most important thing for a game studio are their games.&lt;/p&gt;
+
+&lt;p&gt;We are so close to launch our very first title, an online multiplayer game for browser, Android and Iphone.
+Please, follow us on &lt;a href=&#34;http://twitter.com/TarentolaD&#34;&gt;Twitter&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/Tarentola-Digital-1231109997002430/&#34;&gt;Facebook&lt;/a&gt; to keep updated!&lt;/p&gt;
+
+&lt;p&gt;Let the games speak for themselves!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

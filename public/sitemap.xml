@@ -2,7 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://tarentola.com/games/games/</loc>
+    <lastmod>2017-03-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/games/nicefart.io/</loc>
+    <lastmod>2017-03-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/blog/released-our-first-game-nicefart.io/</loc>
+    <lastmod>2017-03-17T19:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/blog/hello-world/</loc>
+    <lastmod>2017-03-10T20:55:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/contact/</loc>
+    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/blog/</loc>
+    <lastmod>2017-03-17T19:00:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/tags/games/</loc>
+    <lastmod>2017-03-19T20:29:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/games/</loc>
+    <lastmod>2017-03-19T20:29:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tarentola.com/</loc>
+    <lastmod>2017-03-19T20:29:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   

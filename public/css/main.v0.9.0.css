@@ -201,7 +201,7 @@ body {
   text-rendering: optimizeLegibility !important;
 }
 @media (min-width: 600px) {
-  body {
+  /*body {
     -webkit-justify-content: center;
     -moz-justify-content: center;
     -ms-justify-content: center;
@@ -209,7 +209,7 @@ body {
   }
   .non-narrow.zero-top-spacing {
     padding-top: 0 !important;
-  }
+  }*/
 }
 .icon {
   text-rendering: geometricPrecision !important;
@@ -272,11 +272,11 @@ section.header .content {
   align-items: center;
 }
 section.header .container .logo {
-  max-width: 100px;
-  margin-left: -2em;
+  max-width: 160px;
+  /*margin-left: -2em;*/
 }
 section.header .name {
-  padding-top: 20px;
+  /*padding-top: 10px;*/
   font-size: 28px;
   font-family: 'Nexa Bold', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
@@ -286,6 +286,7 @@ section.header .name {
   font-smoothing: antialiased;
   color: #333333;
   color: #555555;
+  display: none;
 }
 section.header nav {
   margin-bottom: 16px;
@@ -312,7 +313,7 @@ section.header nav ul a:last-child {
   margin-right: 0;
 }
 section.header nav ul li {
-  color: #555555;
+  color: #a2a2a2;
   font-weight: 500;
   font-size: 14px;
   -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -321,7 +322,7 @@ section.header nav ul li {
   -o-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
 }
 section.header nav ul li:hover {
-  color: #111111;
+  color: #797ca9;
 }
 @media (min-width: 600px) {
   section.header {
@@ -337,7 +338,7 @@ section.header nav ul li:hover {
     margin: 0;
   }
   section.header-home .container .logo {
-    max-width: 180px;
+    max-width: 260px;
     margin-left: 20px;
   }
   section.header-home .name-home {
@@ -364,10 +365,10 @@ section.header nav ul li:hover {
     text-align: left;
   }
   section.header nav ul li {
-    color: #666666;
+    color: #a2a2a2;
   }
   section.header nav ul li:hover {
-    color: #333333;
+    color: #797ca9;
   }
 }
 section.footer .container {
@@ -463,9 +464,14 @@ section.main .content .title-container {
   -ms-justify-content: space-between;
   justify-content: space-between;
 }
-section.main .content .posts {
+section.main .content .posts,
+section.main .content .games
+{
   margin-bottom: 4em;
 }
+
+
+
 section.main .content .page-heading {
   font-size: 18px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
@@ -606,8 +612,10 @@ section.header {
   padding-top: 10px;
 }
 section.header-home {
-  padding-top: 36px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
+
 section.main {
   padding-top: 32px;
 }
@@ -623,15 +631,15 @@ section.main .container .content .post-item {
     padding: 0 30px;
   }
   section.header {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    /*padding-top: 60px;*/
+    padding-bottom: 30px;
   }
   section.footer {
     padding-top: 30px;
     padding-bottom: 60px;
   }
   section.main {
-    padding-top: 0;
+    padding-top: 32px;
   }
   section.main .container .content .post-item {
     display: flex;
@@ -853,4 +861,48 @@ section.main .content .markdown .footnotes li {
 }
 section.main .content .markdown .footnote-ref {
   font-size: 0.7em;
+}
+
+div#header-container {
+  width: 100%;
+  height: 100%;
+  background-color: #1a1a1a;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border-bottom: 2px solid #c0c0c0;
+}
+
+section.header {
+  margin: auto;
+}
+
+section.header .container div,
+section.header .container div nav {
+  margin: auto;
+  text-align: center;
+}
+
+li.game-title {
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+li.game-title a {
+  color: #3689d5;
+}
+
+li.game-title a:hover {
+  color: #7a642a;
+}
+
+li.game-title a:hover img {
+  -webkit-box-shadow: 10px 10px 11px 2px rgba(0,0,0,0.34);
+  -moz-box-shadow: 10px 10px 11px 2px rgba(0,0,0,0.34);
+  box-shadow: 10px 10px 11px 2px rgba(0,0,0,0.34);
+}
+
+img.cover {
+  width: 100%;
 }

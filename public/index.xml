@@ -1,12 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/index.xml</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Tarentola Digital</title>
+    <link>http://tarentola.com/index.xml</link>
+    <description>Recent content on Tarentola Digital</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Tarentola Digital</copyright>
+    <lastBuildDate>Sun, 19 Mar 2017 20:29:37 -0700</lastBuildDate>
+    <atom:link href="http://tarentola.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Games</title>
+      <link>http://tarentola.com/games/games/</link>
+      <pubDate>Sun, 19 Mar 2017 20:29:37 -0700</pubDate>
+      
+      <guid>http://tarentola.com/games/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NiceFart.io</title>
+      <link>http://tarentola.com/games/nicefart.io/</link>
+      <pubDate>Sun, 19 Mar 2017 20:29:37 -0700</pubDate>
+      
+      <guid>http://tarentola.com/games/nicefart.io/</guid>
+      <description>
+
+&lt;p&gt;Our first game! &lt;strong&gt;NiceFart.io&lt;/strong&gt; is &lt;em&gt;online multiplayer game&lt;/em&gt; available for Browsers, Android and iOS.
+As a webgame you don&amp;rsquo;t need to download anything to play it just go to &lt;a href=&#34;http://nicefart.io&#34;&gt;nicefart.io&lt;/a&gt; and play it!.&lt;/p&gt;
+
+&lt;p&gt;In this game, you&amp;rsquo;re a small and funny butt, who must eat beans to grow and become the biggest ass in the game.
+But will be not easy, other players don&amp;rsquo;t have mercy for a weak butt, so you need to use your super powers like
+farts, run faster, or shoot deadly farts to beat other players!&lt;/p&gt;
+
+&lt;h3 id=&#34;play-it&#34;&gt;Play it:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Web:&lt;/strong&gt; &lt;a href=&#34;http://nicefart.io&#34;&gt;http://nicefart.io&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iOS:&lt;/strong&gt; Soon&amp;hellip;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Android:&lt;/strong&gt; Soon&amp;hellip;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nicefart.io&#34;&gt;&lt;img src=&#34;http://tarentola.com/img/games/nicefartio/nicefartio_cover.png&#34; alt=&#34;NiceFart.io&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;&amp;ndash;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artist:&lt;/strong&gt; &lt;a href=&#34;https://www.facebook.com/rcdsign/&#34;&gt;Rubén del Castillo&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Development &amp;amp; Design:&lt;/strong&gt; &lt;a href=&#34;http://twitter.com/Nazariglez&#34;&gt;Nazarí González&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Released our first game: NiceFart.io</title>
+      <link>http://tarentola.com/blog/released-our-first-game-nicefart.io/</link>
+      <pubDate>Fri, 17 Mar 2017 19:00:33 +0000</pubDate>
+      
+      <guid>http://tarentola.com/blog/released-our-first-game-nicefart.io/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://tarentola.com/img/games/nicefartio/nicefartio.png&#34; alt=&#34;NiceFart.io&#34; /&gt;
+We&amp;rsquo;re so happy today because our first game is online now!&lt;br /&gt;
+&lt;a href=&#34;http://nicefart.io&#34;&gt;NiceFart.io&lt;/a&gt; is a online multiplayer game for browsers
+based in a hilarious world where the players are butts trying to beat other players
+eating beans, and shooting farts.&lt;/p&gt;
+
+&lt;p&gt;This game is similar to agar.io or slither.io, games where your goal is eat and
+become the biggest player. For now, the game is available for browser, but we&amp;rsquo;re working
+hard to have soon versions for Android and iOS.&lt;/p&gt;
+
+&lt;p&gt;We made &lt;strong&gt;NiceFart.io&lt;/strong&gt; with love, and we hope you enjoy it!&lt;/p&gt;
+
+&lt;p&gt;More information on our &lt;a href=&#34;http://tarentola.com/games/nicefart.io/&#34;&gt;NiceFart.io section&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;play-nicefart-io-http-nicefart-io&#34;&gt;&lt;a href=&#34;http://nicefart.io&#34;&gt;Play NiceFart.io&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://tarentola.com/blog/hello-world/</link>
+      <pubDate>Fri, 10 Mar 2017 20:55:42 +0000</pubDate>
+      
+      <guid>http://tarentola.com/blog/hello-world/</guid>
+      <description>&lt;p&gt;Hello! This is our first post. Welcome to our site, it&amp;rsquo;s a really minimalistic site, we know! But, we think the most important thing for a game studio are their games.&lt;/p&gt;
+
+&lt;p&gt;We are so close to launch our very first title, an online multiplayer game for browser, Android and Iphone.
+Please, follow us on &lt;a href=&#34;http://twitter.com/TarentolaD&#34;&gt;Twitter&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/Tarentola-Digital-1231109997002430/&#34;&gt;Facebook&lt;/a&gt; to keep updated!&lt;/p&gt;
+
+&lt;p&gt;Let the games speak for themselves!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tarentola.com/contact/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://tarentola.com/contact/</guid>
+      <description>&lt;p&gt;You can contact with us on &lt;a href=&#34;http://twitter.com/TarentolaD&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/Tarentola-Digital-1231109997002430/&#34;&gt;Facebook&lt;/a&gt; or sending us an &lt;a href=&#34;mailto:info@tarentola.com&#34;&gt;Email&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://tarentola.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tarentola.com/home/</guid>
+      <description>&lt;p&gt;Hello! We are &lt;strong&gt;Tarentola Digital&lt;/strong&gt;, a small indie game studio based on the Canary Islands.
+We are specialist making multiplayer browser games, but also we make cross platform games.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
