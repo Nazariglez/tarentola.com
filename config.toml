@@ -1,0 +1,31 @@
+baseURL = "http://tarentola.com/"
+languageCode = "en-US"
+title = "Tarentola Digital"
+
+theme = "cocoa-eh"
+buildDrafts = false
+canonifyUrls = true
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+author = "Nazarí González"
+disqusshortname = ""
+pluralizelisttitles = false
+
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Tarentola Digital is a indie game studio specialist in multiplayer browser games."
+copyright = "Copyright © 2017 Tarentola Digital"
+logofile = "img/tarentola_digital_logo.png"
+faviconfile = "img/tarentola_digital_logo.png"
+highlightjs = true
+progressively = true
+latestpostcount = 5
+latestgamecount = 5
+email = "info@tarentola.com"
+twitter = "TarentolaD"
